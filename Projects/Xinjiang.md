@@ -8,3 +8,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://drive.google.com/file/d/18BwJy0lKDt1Wz4A1QpohNnjHwTiJS0UF/view?usp=sharing">Part I</a> 
   <a href="https://drive.google.com/file/d/1E2jIy8yxzKZmzzJxFLGjc8PURK2DsxFM/view?usp=sharing">Part II</a> 
 
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
